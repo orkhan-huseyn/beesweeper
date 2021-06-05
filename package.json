@@ -1,0 +1,18 @@
+{
+  "name": "beesweeper",
+  "version": "1.0.0",
+  "description": "A minimalistic mineweeper game with JavaScript",
+  "main": "sketch.js",
+  "scripts": {
+    "dev": "live-server ."
+  },
+  "keywords": [
+    "minesweeper",
+    "codingtrain"
+  ],
+  "author": "orkhan-huseyn",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
