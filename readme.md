@@ -5,4 +5,4 @@ This code is modified version of [the tutorial on Coding Traing channel on Youtu
 
 To run the project in development mode, just `npm install` and `npm run dev`. It will start a `live-server` on available port on your computer.
 
-![./beesweeper.png]()
+![](./beesweeper.png)
